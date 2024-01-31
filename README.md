@@ -19,8 +19,7 @@
 
 ## 📈 My GitHub Stats
 
-![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertsolorzano&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsolorzano&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertsolorzano)
 
 ## 🚀 Deployed Projects
 ### [Track Match](https://www.trackmatch.net/) <a href="https://www.trackmatch.net/"><img src="https://www.trackmatch.net/assets/images/FullLogo_Transparent_NoBuffer.png" width="14" alt="Track Match Icon" style="vertical-align:middle;"/></a>
