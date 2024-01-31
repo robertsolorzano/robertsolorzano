@@ -21,5 +21,5 @@
 
 ![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertsolorzano&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsolorzano&layout=compact)
-![Robert's Activity Graph](https://activity-graph.herokuapp.com/graph?username=robertsolorzano&bg_color=ffffff&color=000000&line=000000&point=00ff00)
+
 
