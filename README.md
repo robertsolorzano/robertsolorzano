@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on school and personal projects
-- 🌱 I’m currently learning Full stack web development at UC berkeley Extension
+- 🌱 I’m currently learning Full Stack Web development at UC Berkeley Extension
 - 👯 I’m looking to collaborate on any projects
 
 ## 🛠️ Technologies and Tools I Use
@@ -23,7 +23,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robertsolorzano&layout=compact)
 
 ## 🚀 Deployed Projects
-- [Track Match](https://www.trackmatch.net/)
+### [Track Match](https://www.trackmatch.net/) <a href="https://www.trackmatch.net/"><img src="https://www.trackmatch.net/assets/images/FullLogo_Transparent_NoBuffer.png" width="14" alt="Track Match Icon" style="vertical-align:middle;"/></a>
+
+Track-Match is a dynamic web application built with Node.js and Express, designed to enhance music discovery. It integrates with the Spotify API and MusicBrainz API, offering users a comprehensive music search experience. Hosted on Heroku, it provides a reliable and scalable platform for music enthusiasts.
+
+
+
 
 
 
