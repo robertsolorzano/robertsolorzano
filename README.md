@@ -2,7 +2,6 @@
 
 ## 👨‍💻 About Me
 - 🔭 I’m currently working on school and personal projects
-- 📖 I’m currently learning Full Stack Web development at UC Berkeley Extension
 - 👯 I’m looking to collaborate on any projects
 - 📫 How to reach me: robertsolorzano510@gmail.com
 
