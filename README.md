@@ -9,7 +9,7 @@ I specialize in Web/App development, crafting utility scripts in Shell and Pytho
 - **Environment**: Arch Linux running on KDE for dev and daily use; Kali Linux for cybersecurity exploration
 
 ### 🎸 Hobbies
-Aside from coding, I have a passion for music production and playing various intruments
+Aside from coding, I have a passion for music production and playing various instruments
 
 ### 📬 Connect
 Interested in tech discussions or potential collaborations? Message me at `robertsolorzano510@gmail.com`
