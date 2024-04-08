@@ -16,4 +16,4 @@ Interested in tech discussions or potential collaborations? Message me at `rober
 
 ## 📈 My GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=robertsolorzano&theme=dark)]
+![GitHub Streak](https://streak-stats.demolab.com?user=robertsolorzano&theme=dark)
