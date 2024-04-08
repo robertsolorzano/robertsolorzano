@@ -30,7 +30,7 @@
 
 ## 📈 My GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=robertsolorzano)
+[![GitHub Streak](https://streak-stats.demolab.com?user=robertsolorzano&theme=dark)]
 
 ## 🚀 Deployed Projects
 ### [Track Match](https://www.trackmatch.net/) <a href="https://www.trackmatch.net/"><img src="https://www.trackmatch.net/assets/images/FullLogo_Transparent_NoBuffer.png" width="14" alt="Track Match Icon" style="vertical-align:middle;"/></a>
