@@ -5,7 +5,6 @@ I specialize in Web/App development, crafting utility scripts in Shell and Pytho
 
 ### 🛠️ Skills
 - **Primary**: MERN, MySQL, Python, Shell
-- **Learning**: Cybersecurity principles with a focus on encryption, penetration testing, and vulnerability assessment
 - **Environment**: Arch Linux running on KDE for dev and daily use; Kali Linux for cybersecurity exploration
 
 ### 🎸 Hobbies
