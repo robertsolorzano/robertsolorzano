@@ -5,7 +5,7 @@ I specialize in Web/App development, crafting utility scripts in Shell and Pytho
 
 ### 🛠️ Skills
 - **Primary**: MERN, MySQL, Python, Bash
-- **Environment**: Arch Linux running on KDE for dev and daily use; Kali Linux for cybersecurity exploration
+- **Environment**: Arch Linux KDE for daily use, Ubunutu for work and Kali Linux for cybersecurity exploration
 
 ### 🎸 Hobbies
 Aside from coding, I have a passion for music production and playing various instruments
