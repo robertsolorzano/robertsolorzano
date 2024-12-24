@@ -13,3 +13,5 @@ Aside from coding, I have a passion for music production and playing various ins
 ## 📈 My GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=robertsolorzano&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=irobertsolorzano&theme=blood-dark)](https://git.io/streak-stats)
