@@ -12,4 +12,4 @@ Aside from coding, I have a passion for music production and playing various ins
 
 ## 📈 My GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=robertsolorzano&theme=dracula)
+![GitHub Streak](https://streak-stats.demolab.com?user=robertsolorzano&theme=aura-dark)
