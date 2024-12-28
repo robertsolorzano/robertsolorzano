@@ -1,14 +1,11 @@
 # Robert Solorzano 👾
 
 ## 🖥️ About Me
-I specialize in Web/App development, crafting utility scripts in Shell and Python to optomize workflow. Additionally, I am exploring cybersecurity to expand my technical expertise.
+I specialize in Web/App development
 
 ### 🛠️ Skills
 - **Primary**: MERN, MySQL, Python, Bash
-- **Environment**: Arch Linux KDE for daily use, Ubuntu for work and Kali Linux for cybersecurity exploration
-
-### 🎸 Hobbies
-Aside from coding, I have a passion for music production and playing various instruments
+- **Environment**: Arch Linux KDE for daily use and Ubuntu for work
 
 ## 📈 My GitHub Stats
 
