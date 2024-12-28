@@ -1,9 +1,9 @@
-# Robert Solorzano 👾
+# Robert Solorzano
 
-## 🖥️ About Me
+## About Me
 I specialize in Web/App development
 
-### 🛠️ Skills
+### Skills
 - **Primary**: MERN, MySQL, Python, Bash
 - **Environment**: Arch Linux KDE for daily use and Ubuntu for work
 
