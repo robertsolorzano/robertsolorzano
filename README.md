@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=robertsolorzano)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=robertsolorzano&theme=blood-dark)](https://git.io/streak-stats)
